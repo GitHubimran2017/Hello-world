@@ -1,3 +1,2 @@
 # Hello-world
-My first repository
-This is my first commit
+Adding this line
